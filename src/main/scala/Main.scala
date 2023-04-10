@@ -12,7 +12,7 @@ def LiveChart(): Unit =
 object Main:
     def appElement(): Element =
         div(
-            h1("Hello Scala.js, Vite and Laminar!!"),
+            h1("Hello Scala.js, Vite and Laminar!"),
             a(href :="httpss://vitejs.dev/guide/feature.html",
                 target := "_blank", "Documentation"),
                 
